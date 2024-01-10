@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/font12sp"
+            android:title="12sp"/>
+
+    <item
+            android:id="@+id/font16sp"
+            android:title="16sp"/>
+</menu>

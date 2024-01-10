@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hlt_exp4_task</string>
+    <string name="stu_id_name">21211870109-胡琳涛</string>
+    <string-array name="city_array">
+        <item>杭州</item>
+        <item>宁波</item>
+        <item>温州</item>
+    </string-array>
+</resources>
